@@ -1,5 +1,5 @@
-#ifndef ASS_3_MEMES_HPP
-#define ASS_3_MEMES_HPP
+#ifndef COMP3421_TUTORIAL_08_MEMES_HPP
+#define COMP3421_TUTORIAL_08_MEMES_HPP
 
 // including glad isn't technically necessary for this header
 // but in the event that this header is included in another file
@@ -16,4 +16,4 @@
 GLFWwindow *marcify(GLFWwindow *win);
 
 
-#endif //ASS_3_MEMES_HPP
+#endif //COMP3421_TUTORIAL_08_MEMES_HPP
